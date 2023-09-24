@@ -1,4 +1,4 @@
-# <p align="center">Сборник учебных проектов по курсу Python-разработчик от Яндекс.Практикум (ноябрь 2022 — август 2023):</p>
+# <p align="center">Сборник учебных проектов по курсу Python-разработчик от Яндекс.Практикум </br>(ноябрь 2022 — август 2023):</p>
 
 </div>
 
@@ -120,7 +120,7 @@
  
   | Ссылка | Цель проекта | Задачи проекта  | Библиотеки|
   | :-----: | :-------------- | :---------- | :-------:|
-  |[Продуктовый помощник Foodgram](https://github.com/VPanshin/Yandex-Practicum-Study-Projects/tree/main/8_Foodgram| Заключительный проект курса. Разработать с нуля REST API для продуктового помощника Foodgram| Отработать полученные за время курса навыки. |![Django_REST_framework](https://img.shields.io/badge/DRF-3.12.4-blue) ![Docker](https://img.shields.io/badge/Docker-blue) ![Docker-compose](https://img.shields.io/badge/Docker-compose-blue)|
+  |[Продуктовый помощник Foodgram](https://github.com/VPanshin/Yandex-Practicum-Study-Projects/tree/main/8_Foodgram)| Заключительный проект курса. Разработать с нуля REST API для продуктового помощника Foodgram| Отработать полученные за время курса навыки. |![Django_REST_framework](https://img.shields.io/badge/DRF-3.12.4-blue) ![Docker](https://img.shields.io/badge/Docker-blue) ![Docker-compose](https://img.shields.io/badge/Docker-compose-blue)|
 
 </details>
 

@@ -1,0 +1,5 @@
+IP: 158.160.6.40;
+name_taski: https://taski.servegame.com/;
+name_kittygram: https://kittygramyp.servegame.com/;
+login: yc-user;
+password: NRjeSf; 

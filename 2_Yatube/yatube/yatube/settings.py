@@ -23,8 +23,6 @@ EMAIL_BACKEND = "django.core.mail.backends.filebased.EmailBackend"
 EMAIL_FILE_PATH = os.path.join(BASE_DIR, "sent_emails")
 EMAIL_HOST = "smtp.yandex.com"
 EMAIL_PORT = 465
-EMAIL_HOST_USER = "sev1ch@yandex.ru"
-EMAIL_HOST_PASSWORD = "Aligator1204"
 EMAIL_USE_SSL = True
 
 # Quick-start development settings - unsuitable for production
